@@ -834,3 +834,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.22-15.32.34:263][962]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2020.09.22-15.33.34:485][392]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
 [2020.09.22-15.33.47:093][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.09.22-15.37.06:308][576]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2020.09.22-15.37.08:229][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.09.22-15.37.08:262][728]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Alfraid/Alfraid/Saved/ThirdPersonExampleMap255DD49241CCA64672017D9C91CDB034.tmp' to '../../../../../../Users/user/Documents/GitHub/Alfraid/Alfraid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.09.22-15.37.08:372][728]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Alfraid/Alfraid/Saved/ThirdPersonExampleMap_BuiltData4A3FCE084A8B97A0F4B303B0D65AF615.tmp' to '../../../../../../Users/user/Documents/GitHub/Alfraid/Alfraid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.09.22-15.37.08:386][728]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.22-15.37.08:386][728]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.09.22-15.37.08:386][728]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
