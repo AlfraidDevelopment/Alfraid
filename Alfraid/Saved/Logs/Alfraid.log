@@ -1414,3 +1414,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.02-15.26.13:504][206]LogEditorViewport: Clicking Background
 [2020.10.02-15.26.16:972][585]Cmd: SELECT NONE
 [2020.10.02-15.26.23:869][306]Cmd: SELECT NONE
+[2020.10.02-15.28.18:110][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.10.02-15.28.18:125][ 55]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Alfraid/Alfraid/Saved/Level1025EF8E44F704E264147A3ACBA8D58FC.tmp' to '../../../../../../Users/user/Documents/GitHub/Alfraid/Alfraid/Content/AlfraidWork/Levels-Worlds/Level1.umap'
+[2020.10.02-15.28.18:167][ 55]AssetCheck: New page: Asset Save: Level1
+[2020.10.02-15.28.18:167][ 55]LogContentValidation: Display: Validating World /Game/AlfraidWork/Levels-Worlds/Level1.Level1
