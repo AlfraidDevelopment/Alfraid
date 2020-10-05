@@ -953,3 +953,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.05-14.55.53:520][869]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Alfraid/Alfraid/Saved/Level1293B44B84B4055FCEB0658AC573A8BA9.tmp' to '../../../../../../Users/user/Documents/GitHub/Alfraid/Alfraid/Content/AlfraidWork/Levels-Worlds/Level1.umap'
 [2020.10.05-14.55.53:557][869]AssetCheck: New page: Asset Save: Level1
 [2020.10.05-14.55.53:557][869]LogContentValidation: Display: Validating World /Game/AlfraidWork/Levels-Worlds/Level1.Level1
+[2020.10.05-14.57.26:280][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2020.10.05-14.57.40:145][834]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube8)
+[2020.10.05-14.57.41:687][954]LogEditorViewport: Clicking Background
+[2020.10.05-14.58.05:465][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2020.10.05-14.59.36:583][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.10.05-14.59.41:105][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2020.10.05-15.00.05:674][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2020.10.05-15.00.19:382][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2020.10.05-15.00.42:900][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.10.05-15.01.40:379][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.10.05-15.01.40:404][225]LogSavePackage: Moving '../../../../../../Users/user/Documents/GitHub/Alfraid/Alfraid/Saved/Level155F79F6D4EC7D1195FAECD93D2CF63B4.tmp' to '../../../../../../Users/user/Documents/GitHub/Alfraid/Alfraid/Content/AlfraidWork/Levels-Worlds/Level1.umap'
+[2020.10.05-15.01.40:442][225]AssetCheck: New page: Asset Save: Level1
+[2020.10.05-15.01.40:443][225]LogContentValidation: Display: Validating World /Game/AlfraidWork/Levels-Worlds/Level1.Level1
