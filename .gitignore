@@ -1,5 +1,5 @@
-git rm --cached */Intermediate/*
-git rm --cached */Saved/*
+git rm -r --cached */Intermediate/*
+git rm -r --cached */Saved/*
 */intermediate/*
 */saved/*
 Alfraid/Saved/AutoScreenshot.png
